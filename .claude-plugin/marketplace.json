@@ -1,0 +1,17 @@
+{
+  "name": "z360",
+  "owner": {
+    "name": "Z360",
+    "url": "https://z360.biz"
+  },
+  "metadata": {
+    "description": "The Z360 plugin for AI apps."
+  },
+  "plugins": [
+    {
+      "name": "z360",
+      "source": "./",
+      "description": "Work with your Z360 organization from your AI app."
+    }
+  ]
+}

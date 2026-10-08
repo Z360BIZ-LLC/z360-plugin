@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "z360": {
+      "type": "http",
+      "url": "https://beta.z360.biz/mcp"
+    }
+  }
+}
