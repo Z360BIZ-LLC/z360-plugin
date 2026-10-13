@@ -21,7 +21,7 @@ To disconnect, open Z360 → Settings → MCP Connections and revoke the connect
 
 ## Data and privacy
 
-The plugin sends your requests and the tool results only between your AI app and Z360 (`beta.z360.biz`). It runs no local code and sends data nowhere else. See the [Z360 privacy policy](https://z360.biz/privacy-policy) and [terms](https://z360.biz/terms).
+The plugin sends your requests and the tool results only between your AI app and Z360 (`beta.z360.biz`). It runs no local code and sends data nowhere else. If your organization has connected integrations in Z360 (for example email or messaging apps), actions you run through them send data from Z360 to those services, as they do in the Z360 app. See the [Z360 privacy policy](https://z360.biz/privacy-policy) and [terms](https://z360.biz/terms).
 
 ## Maintenance
 
