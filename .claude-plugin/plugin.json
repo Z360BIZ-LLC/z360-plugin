@@ -9,6 +9,16 @@
   },
   "homepage": "https://z360.biz",
   "repository": "https://github.com/Z360BIZ-LLC/z360-plugin",
-  "license": "MIT",
-  "keywords": ["z360", "crm", "contacts", "inbox", "tickets"]
+  "keywords": [
+    "z360",
+    "crm",
+    "contacts",
+    "inbox",
+    "tickets"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://docs.z360.biz",
+  "supportUrl": "https://z360.biz/contact",
+  "privacyPolicyUrl": "https://z360.biz/privacy-policy",
+  "termsOfServiceUrl": "https://z360.biz/terms"
 }
